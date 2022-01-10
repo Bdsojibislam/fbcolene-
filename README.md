@@ -14,8 +14,10 @@ pip2 install requests
 pip2 install mechanize 
 
 
-git clone https://github.com/Hunter-alamin/IMPERIAL
+git clone https://github.com/Bdsojibislam/fbcolene-
 
-cd IMPERIAL
+cd fbcolene
+ls
 
-python Imperial.py
+
+python fbcolene.py
